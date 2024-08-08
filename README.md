@@ -1,7 +1,7 @@
 
 <div align='center'>
 <p align="center">
-<p><img src= "https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="250px" height="250px"> 
+<p><img src= "https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="450px" height="250px"> 
  <!--<img src= "https://user-images.githubusercontent.com/74038190/212284164-662b26f5-a2e4-49cb-b675-4af56e609afa.gif"  width="200px" height="200px"  > -->
 
 <a href = "https://dilshithts.vercel.app/"><h2>Dilshith T S</h2></a>
