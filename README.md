@@ -1,8 +1,8 @@
 
 <div align='center'>
 <p align="center">
-<p><img src= "https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMxMjQzMTMsIm5iZiI6MTcyMzEyNDAxMywicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODA4VDEzMzMzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ5ZWVmYzQ3OWY5YjRmMDgwNDAxZTY5N2QyNTAwYTY1YzBkYWEwYmI0MGZiYmM4Mjg3ZDVmYzY1NDM4MGUwOWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.g1-dugGb6pUXJVo7PRgP5PZn1PagwZXO4N1bbh0e5wQ" width="250px" height="250px"> 
- <img src= "https://user-images.githubusercontent.com/74038190/212284164-662b26f5-a2e4-49cb-b675-4af56e609afa.gif"  width="200px" height="200px"  >
+<p><img src= "https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="250px" height="250px"> 
+ <!--<img src= "https://user-images.githubusercontent.com/74038190/212284164-662b26f5-a2e4-49cb-b675-4af56e609afa.gif"  width="200px" height="200px"  > -->
 
 <a href = "https://dilshithts.vercel.app/"><h2>Dilshith T S</h2></a>
 </p>
