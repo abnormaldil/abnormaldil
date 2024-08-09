@@ -79,12 +79,14 @@
  
 </p>
 
+---
 
-<p align="center">
-  
- [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dilshith)
-
+ <p align="center">
+    <a href="https://buymeacoffee.com/dilshith">
+        <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+    </a>
 </p>
+
 
 <p align="center">
  <img src="https://visitcount.itsvg.in/api?id=abnormaldil&icon=5&color=0" alt="Profile Count"><br/>
