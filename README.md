@@ -17,7 +17,7 @@
 
 
 
-## Socials:
+<div><p><h1> Languages and Tools</h4></div></p>
 <p align="center">
 <a href="https://behance.net/dilshiththoppil">
         <img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" alt="Behance">
