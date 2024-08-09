@@ -75,6 +75,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=abnormaldil&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=abnormaldil&theme=dark&hide_border=false" alt="GitHub Streak"><br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnormaldil&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+ <img src="https://github-contributor-stats.vercel.app/api?username=abnormaldil&limit=5&theme=monokai&combine_all_yearly_contributions=true" alt="Top Contributions">
 </p>
 
 
