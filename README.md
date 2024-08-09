@@ -17,7 +17,7 @@
 
 
 
-<div align="center><p><h1> Languages and Tools</h4></div></p>
+<div align="center"><p><h1>Socials</h4></div></p>
 <p align="center">
 <a href="https://behance.net/dilshiththoppil">
         <img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" alt="Behance">
@@ -30,7 +30,7 @@
     </a>
 </p>
 
-<div><p><h1>Tech Stack</h4></div></p>
+<div align="center"><p><h1>Language & Tools</h4></div></p>
 <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"></a>
     <a href="#"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
