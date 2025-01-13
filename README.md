@@ -88,9 +88,5 @@
 </p>
 
 
-<p align="center">
- <img src="https://visitcount.itsvg.in/api?id=abnormaldil&icon=5&color=0" alt="Profile Count"><br/>
- </p>
 
-  
 
